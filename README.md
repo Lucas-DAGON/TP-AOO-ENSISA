@@ -1,6 +1,6 @@
 # TP-AOO-ENSISA
 This is the repository for the TP AOO Python.
-After cloning this repo, you can start Exo_1 by runing this on the command shell
+After cloning this repository, you can start Exo_1 by runing this on the command shell
 ```Shell
 py Exo_1/library.py
 ```
